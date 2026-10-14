@@ -19,11 +19,16 @@ Editable research report: [Word document](deliverables/Monad_Research_Report.doc
 
 ## Findings
 
-- Top-five pools account for 72.32% of swaps and 85.95% of eligible valued volume.
-- Estimated USD-equivalent pool-execution volume is $157.56m; valuation covers 97.90% of events under documented assumptions.
-- V4 accounts for 64.72% of same-week provider DEX-category volume, a source-defined universe.
-- There are 7,801 originating accounts; 1,127 appear on multiple sample days. These are not verified people or long-term retention measures.
-- Adding flow to a recent-return baseline reduces holdout MSE by 1.96% at one minute and 0.60% at five minutes. Gains are small and uneven; the liquidity interaction does not consistently help.
+- **Trading is concentrated in a few pools:** The five busiest pools account for 72.32% of swaps and 85.95% of estimated dollar trading volume.
+- **Uniswap v4 is the largest venue in this sample:** It represents 64.72% of Monad's DEX-category volume reported by DefiLlama for the same week. This comparison uses DefiLlama's reported venues.
+- **Estimated trading volume is $157.56 million:** We calculated a dollar value for 393,605 swaps (97.90% of all recorded Swap events), using the pricing assumptions explained in the report.
+- **Trading is concentrated among wallet addresses too:** We identified 7,801 distinct transaction-originating addresses. The five most active account addresses generated 29.82% of swaps; the five highest-volume addresses generated 47.15% of valued volume. Another 1,127 addresses traded on more than one day. Addresses are not necessarily individual people.
+- **Buying/selling pressure slightly improves short-term price forecasts:** Adding order-flow data to a model based on recent price movements reduced mean squared prediction error by 1.96% for one-minute forecasts and 0.60% for five-minute forecasts on previously unseen data.
+- **We tested nine combinations of order flow and liquidity:** We compared strong buying, strong selling and balanced trading under low, medium and high nearby liquidity. In the low-liquidity group, strong buying was followed by an average one-minute price rise of 3.20 basis points (0.032%); strong selling was followed by a fall of 3.72 basis points (0.0372%). These are observed averages, not guaranteed predictions. The groups had uneven sample sizes, so the results do not prove that lower liquidity caused larger price moves.
+- **Adding liquidity data did not consistently help forecasting:** The combined buying/selling-and-liquidity model reduced one-minute prediction error by 1.50% across all eight pools but was 0.61% worse than the basic model at fifteen minutes.
+- **Forecasting results depend on which pools are included:** The combined model was 0.12% worse at one minute for the busiest MON/USDC pool, while excluding that pool improved the one-minute result to 3.57%. This makes the results less reliable as a general forecasting method.
+
+**Limitations:** The study covers seven days, with only three days of unseen data for forecasting tests. The findings show preliminary relationships between trading activity, liquidity and subsequent prices; they do not establish a profitable trading strategy.
 
 ## Reproduce offline
 
