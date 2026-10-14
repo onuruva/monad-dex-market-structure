@@ -15,7 +15,7 @@ windows and additional venues are future extensions.
 2. [Methodology](METHODOLOGY.md) and [data dictionary](DATA_DICTIONARY.md)
 3. [Figures and supporting tables](results/)
 
-Editable research report: [Word document](deliverables/Monad_Research_Report.docx). A [text version](REPORT.md) is provided for browsing on GitHub. The executive-summary text is in [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md).
+Editable research report: [Word document](deliverables/Monad_Research_Report.docx). A [text version](REPORT.md) is provided for browsing on GitHub. 
 
 ## Findings
 
