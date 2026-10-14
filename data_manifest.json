@@ -1,0 +1,120 @@
+{
+  "study_window_utc": "2026-10-03 inclusive through 2026-10-10 exclusive",
+  "prepared_utc_date": "2026-10-13",
+  "inputs": [
+    {
+      "path": "swaps.csv.gz",
+      "size_bytes": 44923615,
+      "sha256": "b106894a2a45962865f3d2911b18edbb270f73757ff3ae34c4570f7ddd203c45",
+      "parts": [
+        {
+          "path": "data_parts/swaps.csv.gz.part01",
+          "size_bytes": 20971520,
+          "sha256": "a9b207eff0f2a78ac33dfcf08733dff50e97aef5074f11b3add386250c6261b7"
+        },
+        {
+          "path": "data_parts/swaps.csv.gz.part02",
+          "size_bytes": 20971520,
+          "sha256": "324b1de4dcdcdb695a136cb20fee3adcecad5970e57d0ef6f2f79a16bbb23532"
+        },
+        {
+          "path": "data_parts/swaps.csv.gz.part03",
+          "size_bytes": 2980575,
+          "sha256": "1d5c695f7585cf45403854968365bad6da37cad1e5ef27ce2fd3854552cff194"
+        }
+      ]
+    },
+    {
+      "path": "transaction_origins.csv.gz",
+      "size_bytes": 31989404,
+      "sha256": "1db0444fc768f7b7b9ce85691e68335def3119c4da9dd4047ef26aa0dbe31332",
+      "parts": [
+        {
+          "path": "data_parts/transaction_origins.csv.gz.part01",
+          "size_bytes": 20971520,
+          "sha256": "dec7394fc58845508b95283cf4d7cd771bc99c99b632faa4a09960690c3ca7a2"
+        },
+        {
+          "path": "data_parts/transaction_origins.csv.gz.part02",
+          "size_bytes": 11017884,
+          "sha256": "c76581d09e35d9e058d612408e64a23fb18e0c8ff6e0d90f779320fcc323798f"
+        }
+      ]
+    },
+    {
+      "path": "non_swap_events.json.gz",
+      "size_bytes": 690030,
+      "sha256": "923a56f6cbbeac28c0ae8fa2afe198247917ec2742ed7c8f739a444494689973"
+    },
+    {
+      "path": "uniswap_v4_initialize_history.json.gz",
+      "size_bytes": 2067166,
+      "sha256": "214736fb5e305fb3742bd1e339cecdf37a80f35004ad24ae8edf185017d4381d"
+    },
+    {
+      "path": "pools.json",
+      "size_bytes": 121111,
+      "sha256": "d3ca2a75ced50b3e9bf0b17564c276d43159d0e276ee148176d6e57ce379dcbb"
+    },
+    {
+      "path": "token_metadata.json",
+      "size_bytes": 38316,
+      "sha256": "e91fa33da71d397361b91995d9a0e7daec28c777d4b57eb1367ceb03f4e9974f"
+    },
+    {
+      "path": "token_metadata.csv",
+      "size_bytes": 14679,
+      "sha256": "8752e18e4f21c3ec4fcee56db772accf0d4d99c01a0aaea5bf37eb79b6843616"
+    },
+    {
+      "path": "official_tokenlist_snapshot.json",
+      "size_bytes": 89176,
+      "sha256": "e415a562ab7a13117720e1fc9cc7b74b005cf84b8e0daca08f18af2927613818"
+    },
+    {
+      "path": "metadata_evidence.json",
+      "size_bytes": 142578,
+      "sha256": "6cabb96e5ef28a2f8b380b6b787732aaa97a3f7c3070f540d2218ab6f3fc7da8"
+    },
+    {
+      "path": "metadata_conflicts.json",
+      "size_bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "historical_decimals_evidence.json",
+      "size_bytes": 110814,
+      "sha256": "0d63bc4b3b8722c818c529343421fed0f24bfdacfbec2d5bdbc2dd874d585913"
+    },
+    {
+      "path": "historical_decimals_summary.json",
+      "size_bytes": 115,
+      "sha256": "7ea5d2fac7c4a3b9b755e7c5cc4557cd5500398c76c13087dc30479828a513dc"
+    },
+    {
+      "path": "ecosystem_dex_volume_snapshot.json",
+      "size_bytes": 311148,
+      "sha256": "a1a53f4518431c561490c95901cd4127c0a18f614e6a8e5b45477cb5e95912d9"
+    },
+    {
+      "path": "raw_audit.json",
+      "size_bytes": 928,
+      "sha256": "2181385a8bf54cc6d94d0fa51129ed09b4976f4d092858f46817ea2a18c61a23"
+    },
+    {
+      "path": "snapshot_manifest.json",
+      "size_bytes": 155,
+      "sha256": "b89980174d8ea52f1aadae3873a1b500788eff2e5ca577ed8e28306988079921"
+    },
+    {
+      "path": "independent_raw_swap_sample.json",
+      "size_bytes": 108179,
+      "sha256": "1dd14b9eb28b933e5223b2dfc7cb57d77b785256a689702257949a4da926f085"
+    },
+    {
+      "path": "independent_sender_probe.json",
+      "size_bytes": 33582,
+      "sha256": "9b8ba3102fee69b819423fbdd043ad330cf7a59de5bd32a1361a3a8a5d9d8e5d"
+    }
+  ]
+}

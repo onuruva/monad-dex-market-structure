@@ -1,0 +1,4006 @@
+[
+  {
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "point": "first_observed_use",
+    "block_number": 110031579,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x005d214a4edb0d5b425b20b8beae398d4abd0b7d",
+    "point": "first_observed_use",
+    "block_number": 111942007,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x005d214a4edb0d5b425b20b8beae398d4abd0b7d",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0158abff6d8344b35b5afffe7dbefc431b731a70",
+    "point": "first_observed_use",
+    "block_number": 110859361,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0158abff6d8344b35b5afffe7dbefc431b731a70",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "point": "first_observed_use",
+    "block_number": 110047133,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x032dcb76ddf2d0fd44bed17b3f8a4599c44e1b07",
+    "point": "first_observed_use",
+    "block_number": 111075056,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x032dcb76ddf2d0fd44bed17b3f8a4599c44e1b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "point": "first_observed_use",
+    "block_number": 110031492,
+    "current_decimals": 8,
+    "historical_decimals": 8,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000008"
+    }
+  },
+  {
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 8,
+    "historical_decimals": 8,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000008"
+    }
+  },
+  {
+    "address": "0x08a636cb63b7a63a232b074ea3591b4d64396b07",
+    "point": "first_observed_use",
+    "block_number": 110320915,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x08a636cb63b7a63a232b074ea3591b4d64396b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0a332311633c0625f63cfc51ee33fc49826e0a3c",
+    "point": "first_observed_use",
+    "block_number": 110278258,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0a332311633c0625f63cfc51ee33fc49826e0a3c",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0cc9b2e2acd7bacff79eb7db48f5662b622e7777",
+    "point": "first_observed_use",
+    "block_number": 110316651,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0cc9b2e2acd7bacff79eb7db48f5662b622e7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x0e8a4f5c5c6dd44ebeabed5073582ce48be112aa",
+    "point": "first_observed_use",
+    "block_number": 110120110,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x0e8a4f5c5c6dd44ebeabed5073582ce48be112aa",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x1001ff13bf368aa4fa85f21043648079f00e1001",
+    "point": "first_observed_use",
+    "block_number": 110356876,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1001ff13bf368aa4fa85f21043648079f00e1001",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x10167798d28dd29c76441871bd0029f0d220ab07",
+    "point": "first_observed_use",
+    "block_number": 111090612,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x10167798d28dd29c76441871bd0029f0d220ab07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+    "point": "first_observed_use",
+    "block_number": 110211325,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417",
+    "point": "first_observed_use",
+    "block_number": 110031589,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1111b3ded9f1fe1801ad4ebef8e2788183a24111",
+    "point": "first_observed_use",
+    "block_number": 110051634,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x1111b3ded9f1fe1801ad4ebef8e2788183a24111",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x11828ceb9ba1ebb918f88f07057b9030e4303b07",
+    "point": "first_observed_use",
+    "block_number": 111433181,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x11828ceb9ba1ebb918f88f07057b9030e4303b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x11b250f232156e2090643bb644f62fa3e9f37901",
+    "point": "first_observed_use",
+    "block_number": 110102687,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x11b250f232156e2090643bb644f62fa3e9f37901",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x11ed3b12d99d508f926c870fb44f472001842c96",
+    "point": "first_observed_use",
+    "block_number": 110281028,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x11ed3b12d99d508f926c870fb44f472001842c96",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1446501e886c7f830db9b494a1890cbccc072f57",
+    "point": "first_observed_use",
+    "block_number": 110958719,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1446501e886c7f830db9b494a1890cbccc072f57",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+    "point": "first_observed_use",
+    "block_number": 110036805,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "point": "first_observed_use",
+    "block_number": 111628007,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x214449c983393a8acf882f0316aab140161cdb07",
+    "point": "first_observed_use",
+    "block_number": 111065500,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x214449c983393a8acf882f0316aab140161cdb07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x21e325b059cd83d4037c82f0f5998ba2df3d7777",
+    "point": "first_observed_use",
+    "block_number": 110188265,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x21e325b059cd83d4037c82f0f5998ba2df3d7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x22cd99ec337a2811f594340a4a6e41e4a3022b07",
+    "point": "first_observed_use",
+    "block_number": 111919291,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x22cd99ec337a2811f594340a4a6e41e4a3022b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x266652d8f23673f23f8c6bbf42e7bce2f287fb07",
+    "point": "first_observed_use",
+    "block_number": 111436362,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x266652d8f23673f23f8c6bbf42e7bce2f287fb07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x27c8b46e60b423d69ca38e61e9b46d1271796b01",
+    "point": "first_observed_use",
+    "block_number": 110176945,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x27c8b46e60b423d69ca38e61e9b46d1271796b01",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2a3c052def53e7b375388fa5c48bf83a42327777",
+    "point": "first_observed_use",
+    "block_number": 111422572,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2a3c052def53e7b375388fa5c48bf83a42327777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2abc42250154752273a4560e875c858623f83ecc",
+    "point": "first_observed_use",
+    "block_number": 110306244,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2abc42250154752273a4560e875c858623f83ecc",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2fbcb475de6b91b39805377a87afca01cd617777",
+    "point": "first_observed_use",
+    "block_number": 110212300,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x2fbcb475de6b91b39805377a87afca01cd617777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x34becbbd5b88d1149300615b914df445b9538f01",
+    "point": "first_observed_use",
+    "block_number": 111664768,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x34becbbd5b88d1149300615b914df445b9538f01",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
+    "point": "first_observed_use",
+    "block_number": 110044557,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x37ad809e22af699c2d0c14b26c93d5ead9f4a9dc",
+    "point": "first_observed_use",
+    "block_number": 111941857,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x37ad809e22af699c2d0c14b26c93d5ead9f4a9dc",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3842751a46d23b41a47e702473dff316e6237777",
+    "point": "first_observed_use",
+    "block_number": 111192045,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3842751a46d23b41a47e702473dff316e6237777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x39b9e06f226ff6d7500c870b82333aacbd2f7777",
+    "point": "first_observed_use",
+    "block_number": 110096674,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x39b9e06f226ff6d7500c870b82333aacbd2f7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+    "point": "first_observed_use",
+    "block_number": 110053529,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3e459bea2a3efab22ce12358e672dd31a9594d34",
+    "point": "first_observed_use",
+    "block_number": 110286351,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3e459bea2a3efab22ce12358e672dd31a9594d34",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3ebbbaa60c309ec7d857a399051a5e20eb886215",
+    "point": "first_observed_use",
+    "block_number": 110136136,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x3ebbbaa60c309ec7d857a399051a5e20eb886215",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x405b6330e213ded490240cbcdd64790806827777",
+    "point": "first_observed_use",
+    "block_number": 110038089,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x405b6330e213ded490240cbcdd64790806827777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4147a0c89a83faba5d401e644e110a1c5f67bd8b",
+    "point": "first_observed_use",
+    "block_number": 111497988,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x4147a0c89a83faba5d401e644e110a1c5f67bd8b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x42a4aa89864a794de135b23c6a8d2e05513d7777",
+    "point": "first_observed_use",
+    "block_number": 110249085,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x42a4aa89864a794de135b23c6a8d2e05513d7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x436662f54fd3ac7b740ddda87f8298c22aac7777",
+    "point": "first_observed_use",
+    "block_number": 111423620,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x436662f54fd3ac7b740ddda87f8298c22aac7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x43cf5407bda1400498b8064d50a7e17528d87777",
+    "point": "first_observed_use",
+    "block_number": 110031673,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x43cf5407bda1400498b8064d50a7e17528d87777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x44812436147d162ce0a6b573dbcc7492ef117777",
+    "point": "first_observed_use",
+    "block_number": 111413008,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x44812436147d162ce0a6b573dbcc7492ef117777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x461b9befb3c81c988501c89f5caaba03b02565d0",
+    "point": "first_observed_use",
+    "block_number": 110081707,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x461b9befb3c81c988501c89f5caaba03b02565d0",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4644fd1eab16a21969b4c16be8a2d5c986033f2a",
+    "point": "first_observed_use",
+    "block_number": 110179779,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4644fd1eab16a21969b4c16be8a2d5c986033f2a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x47464de4571af679505a90b69cce8670804b7777",
+    "point": "first_observed_use",
+    "block_number": 111916257,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x47464de4571af679505a90b69cce8670804b7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4763b7f46e21034186fe0197c3b4b53abd69b801",
+    "point": "first_observed_use",
+    "block_number": 111035169,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4763b7f46e21034186fe0197c3b4b53abd69b801",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
+    "point": "first_observed_use",
+    "block_number": 111701385,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4d2ea892c083fff63a556b82c2ef893709d77777",
+    "point": "first_observed_use",
+    "block_number": 110091372,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x4d2ea892c083fff63a556b82c2ef893709d77777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x527d86b0820a72f7dfb937fe1da0c649019b7777",
+    "point": "first_observed_use",
+    "block_number": 111669094,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x527d86b0820a72f7dfb937fe1da0c649019b7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5548d8405f343a6075a46a45cb954bceb8ba4e79",
+    "point": "first_observed_use",
+    "block_number": 111434171,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5548d8405f343a6075a46a45cb954bceb8ba4e79",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5792753b66eb5213e416755546abbcc1aef1008a",
+    "point": "first_observed_use",
+    "block_number": 110125358,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x5792753b66eb5213e416755546abbcc1aef1008a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x5a4860addcc094fce026384caeecb1e634dd9af4",
+    "point": "first_observed_use",
+    "block_number": 110163476,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5a4860addcc094fce026384caeecb1e634dd9af4",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5a92c82c2f6b00347ca74a102178a20077171501",
+    "point": "first_observed_use",
+    "block_number": 110213250,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5a92c82c2f6b00347ca74a102178a20077171501",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5ba9ff9d3a42c8f9317372c61de8ea993a9b7777",
+    "point": "first_observed_use",
+    "block_number": 111916256,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5ba9ff9d3a42c8f9317372c61de8ea993a9b7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "point": "first_observed_use",
+    "block_number": 110076272,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5dff3639e19d1c164aedf5affd1c049b5fe17777",
+    "point": "first_observed_use",
+    "block_number": 110637423,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5dff3639e19d1c164aedf5affd1c049b5fe17777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+    "point": "first_observed_use",
+    "block_number": 110164702,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5ef52de74245cf277870235407ee216838114343",
+    "point": "first_observed_use",
+    "block_number": 111363700,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x5ef52de74245cf277870235407ee216838114343",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x62cfe42ff634ae8d31250551b1c00222eb6a1fb5",
+    "point": "first_observed_use",
+    "block_number": 110189188,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x62cfe42ff634ae8d31250551b1c00222eb6a1fb5",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x62f28f9d5b5fe1befa0060c54f6d157e80617777",
+    "point": "first_observed_use",
+    "block_number": 111917365,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x62f28f9d5b5fe1befa0060c54f6d157e80617777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6301e4fd1b963cb89d1c53c54ddebd2a820ff222",
+    "point": "first_observed_use",
+    "block_number": 110216804,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6301e4fd1b963cb89d1c53c54ddebd2a820ff222",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6458bcb50c52ff5aeff03a1ef70517dcc2f04b07",
+    "point": "first_observed_use",
+    "block_number": 110323901,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6458bcb50c52ff5aeff03a1ef70517dcc2f04b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6f8b615425de5cca4ef1fc3270a114a94f000601",
+    "point": "first_observed_use",
+    "block_number": 110824501,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x6f8b615425de5cca4ef1fc3270a114a94f000601",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x701193374879131f923532987c7ef363a91a80eb",
+    "point": "first_observed_use",
+    "block_number": 110041594,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x701193374879131f923532987c7ef363a91a80eb",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x708bbce3754412ce02e1e21a515e52188706db07",
+    "point": "first_observed_use",
+    "block_number": 111052751,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x708bbce3754412ce02e1e21a515e52188706db07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x70c76f7ad7a818db090af60a90fab5b5a16ccb07",
+    "point": "first_observed_use",
+    "block_number": 110283916,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x70c76f7ad7a818db090af60a90fab5b5a16ccb07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "point": "first_observed_use",
+    "block_number": 110031578,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0x788571e0e5067adea87e6ba22a2b738ffdf48888",
+    "point": "first_observed_use",
+    "block_number": 110206328,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x788571e0e5067adea87e6ba22a2b738ffdf48888",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7b2728c04ad436153285702e969e6efac3a97777",
+    "point": "first_observed_use",
+    "block_number": 110691819,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7b2728c04ad436153285702e969e6efac3a97777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7b6ec4ff353583807f3478900d7eaede430c7777",
+    "point": "first_observed_use",
+    "block_number": 111319335,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7b6ec4ff353583807f3478900d7eaede430c7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7d1df8c48b0a179a67853c7cb0239c9bc9e7b101",
+    "point": "first_observed_use",
+    "block_number": 110859933,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7d1df8c48b0a179a67853c7cb0239c9bc9e7b101",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+    "point": "first_observed_use",
+    "block_number": 110697960,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7e8bdf7d262a6e4ff9302af49f2cdb022b587777",
+    "point": "first_observed_use",
+    "block_number": 110036374,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7e8bdf7d262a6e4ff9302af49f2cdb022b587777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7f0727fc4de75a9c6a7feb7a60ae5ba3bd31b047",
+    "point": "first_observed_use",
+    "block_number": 110320771,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x7f0727fc4de75a9c6a7feb7a60ae5ba3bd31b047",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x81573fde496451de098860eb2d0601d362b0ca84",
+    "point": "first_observed_use",
+    "block_number": 111874523,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x81573fde496451de098860eb2d0601d362b0ca84",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x81a224f8a62f52bde942dbf23a56df77a10b7777",
+    "point": "first_observed_use",
+    "block_number": 110079063,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x81a224f8a62f52bde942dbf23a56df77a10b7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+    "point": "first_observed_use",
+    "block_number": 110412864,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x89459eebf132d6dc322d9aab82a61313f1c88401",
+    "point": "first_observed_use",
+    "block_number": 111940110,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x89459eebf132d6dc322d9aab82a61313f1c88401",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8da32752ea895313d334cc6f79fbda4549b697b4",
+    "point": "first_observed_use",
+    "block_number": 110392046,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8da32752ea895313d334cc6f79fbda4549b697b4",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8ecfbd3b88e2c72c44e5754e4c1028f20f596b07",
+    "point": "first_observed_use",
+    "block_number": 111088525,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x8ecfbd3b88e2c72c44e5754e4c1028f20f596b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56",
+    "point": "first_observed_use",
+    "block_number": 110227533,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x938eb0cb3f9d528fd0d845c3308b75cc8fb2263b",
+    "point": "first_observed_use",
+    "block_number": 110256425,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x938eb0cb3f9d528fd0d845c3308b75cc8fb2263b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9603cc38f8059cb1c8bdd2f28858b39c980725df",
+    "point": "first_observed_use",
+    "block_number": 110673383,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9603cc38f8059cb1c8bdd2f28858b39c980725df",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x97401d48a80b15bc7291599e24b590eedcd7ce37",
+    "point": "first_observed_use",
+    "block_number": 110306181,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x97401d48a80b15bc7291599e24b590eedcd7ce37",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x99ae2dc76c43979e3bcc0ae8d69f1fca077c8888",
+    "point": "first_observed_use",
+    "block_number": 111385453,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x99ae2dc76c43979e3bcc0ae8d69f1fca077c8888",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9a5baa12664c89cfbf5cfcd9d0d4805bdcab29e8",
+    "point": "first_observed_use",
+    "block_number": 111971679,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9a5baa12664c89cfbf5cfcd9d0d4805bdcab29e8",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9db7196706fe7e688af71b0a86699f509d313b07",
+    "point": "first_observed_use",
+    "block_number": 111431447,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0x9db7196706fe7e688af71b0a86699f509d313b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "point": "first_observed_use",
+    "block_number": 110409975,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "point": "first_observed_use",
+    "block_number": 110643567,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa44eaeac76f0886c6263de90f0fe456c569227a3",
+    "point": "first_observed_use",
+    "block_number": 111039489,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa44eaeac76f0886c6263de90f0fe456c569227a3",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa64258851fc1712c21fd534031d7aae7e0937301",
+    "point": "first_observed_use",
+    "block_number": 110796378,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa64258851fc1712c21fd534031d7aae7e0937301",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa7b3f394b9aaba67f2543a8c1a0f753cc68d7777",
+    "point": "first_observed_use",
+    "block_number": 110618169,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa7b3f394b9aaba67f2543a8c1a0f753cc68d7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa9da3c77ec7cdc4dfaa1fe142af583543d1c540f",
+    "point": "first_observed_use",
+    "block_number": 110039187,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xa9da3c77ec7cdc4dfaa1fe142af583543d1c540f",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xab6e5a0c3799d020c790d34f7b2c02639e238af7",
+    "point": "first_observed_use",
+    "block_number": 110192594,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xab6e5a0c3799d020c790d34f7b2c02639e238af7",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "point": "first_observed_use",
+    "block_number": 110032171,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xaccd61772bcd3717546f141382b68b6d2ef17777",
+    "point": "first_observed_use",
+    "block_number": 110496127,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xaccd61772bcd3717546f141382b68b6d2ef17777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+    "point": "first_observed_use",
+    "block_number": 110067726,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xafac6c25c6276f1a7766c7da788350c280ec9301",
+    "point": "first_observed_use",
+    "block_number": 111672842,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xafac6c25c6276f1a7766c7da788350c280ec9301",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b54ee60dad19885d2ab8de3e5bdb8b5cb927a",
+    "point": "first_observed_use",
+    "block_number": 110419046,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b54ee60dad19885d2ab8de3e5bdb8b5cb927a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b5d1ec330be68dbe96097817daedb1e7ca87c",
+    "point": "first_observed_use",
+    "block_number": 111143616,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b5d1ec330be68dbe96097817daedb1e7ca87c",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b64ff7203456dd61ea432a95d2dc10d35e0a9",
+    "point": "first_observed_use",
+    "block_number": 110419270,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b64ff7203456dd61ea432a95d2dc10d35e0a9",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b69155adfa5f0740c26b04e55b0ef954eaa5e",
+    "point": "first_observed_use",
+    "block_number": 111626424,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b69155adfa5f0740c26b04e55b0ef954eaa5e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b73b385ec352d0afccc50838e8d5c50735b39",
+    "point": "first_observed_use",
+    "block_number": 110872964,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b73b385ec352d0afccc50838e8d5c50735b39",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b9c6af13fe50b99f751309db8783bf7b2924e",
+    "point": "first_observed_use",
+    "block_number": 111625895,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b9c6af13fe50b99f751309db8783bf7b2924e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b9f5e675133fa7d53ec36368fec74187eaae1",
+    "point": "first_observed_use",
+    "block_number": 111584171,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00b9f5e675133fa7d53ec36368fec74187eaae1",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bb8c0d4a67e1b7ae4c1b3c745db26d2884480",
+    "point": "first_observed_use",
+    "block_number": 110206929,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bb8c0d4a67e1b7ae4c1b3c745db26d2884480",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bcd5b6a57537a783c49cfa0304f79bd4945d9",
+    "point": "first_observed_use",
+    "block_number": 111626263,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bcd5b6a57537a783c49cfa0304f79bd4945d9",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bcfdfdd3d4442118e14eb81ec7b35a86c9396",
+    "point": "first_observed_use",
+    "block_number": 111626014,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bcfdfdd3d4442118e14eb81ec7b35a86c9396",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bd9ff3affc71c851e9c295632a6b0bbb75652",
+    "point": "first_observed_use",
+    "block_number": 110418967,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bd9ff3affc71c851e9c295632a6b0bbb75652",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bf8707a134ad88d0eec891932d18cc109ae8a",
+    "point": "first_observed_use",
+    "block_number": 111626141,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00bf8707a134ad88d0eec891932d18cc109ae8a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00fe98687738d90a7a1a3690820dc3a1061eb07",
+    "point": "first_observed_use",
+    "block_number": 111092050,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb00fe98687738d90a7a1a3690820dc3a1061eb07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb0a788d09e7da1582012721bea1d16d2aafb7777",
+    "point": "first_observed_use",
+    "block_number": 110037455,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb0a788d09e7da1582012721bea1d16d2aafb7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb23d163068bfb585f2e81a1182b3fa0e66e5ab39",
+    "point": "first_observed_use",
+    "block_number": 110109775,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb23d163068bfb585f2e81a1182b3fa0e66e5ab39",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb53c4fb340aa926b2ac9954a1bb6dc83fd2b8a01",
+    "point": "first_observed_use",
+    "block_number": 110241843,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb53c4fb340aa926b2ac9954a1bb6dc83fd2b8a01",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb5f0ff14ced681315751138a3ef6ee90e4afbdf5",
+    "point": "first_observed_use",
+    "block_number": 110157561,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xb5f0ff14ced681315751138a3ef6ee90e4afbdf5",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xbc19ac589c66e3661b8dce5caa29838279bd733a",
+    "point": "first_observed_use",
+    "block_number": 111432648,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xbc19ac589c66e3661b8dce5caa29838279bd733a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc1f88f22c6834a93470f68202285330dfb5b2e86",
+    "point": "first_observed_use",
+    "block_number": 110216748,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc1f88f22c6834a93470f68202285330dfb5b2e86",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc3932f079ea871af1a18e6530b9f9e8eab5bda4f",
+    "point": "first_observed_use",
+    "block_number": 111407671,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc3932f079ea871af1a18e6530b9f9e8eab5bda4f",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc50358378b7effb24f5cccbdf8a2c7386e6c1d17",
+    "point": "first_observed_use",
+    "block_number": 110327520,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc50358378b7effb24f5cccbdf8a2c7386e6c1d17",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc79928c399bdb86d04fee7a088c915c0fffc45c0",
+    "point": "first_observed_use",
+    "block_number": 110855387,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc79928c399bdb86d04fee7a088c915c0fffc45c0",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc88cacd6fe1838c8dd1f0244b6cc0dee910dd261",
+    "point": "first_observed_use",
+    "block_number": 110998853,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc88cacd6fe1838c8dd1f0244b6cc0dee910dd261",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc911ba7aee487f5145702c20c20a40d9e5b87777",
+    "point": "first_observed_use",
+    "block_number": 110437909,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xc911ba7aee487f5145702c20c20a40d9e5b87777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xccf3517f5b75b75aa599702c90a8a2cc297791f4",
+    "point": "first_observed_use",
+    "block_number": 111264084,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xccf3517f5b75b75aa599702c90a8a2cc297791f4",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xd032d4ec756e878f21ba683fd2a4865f3e7f1cb1",
+    "point": "first_observed_use",
+    "block_number": 110216748,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd032d4ec756e878f21ba683fd2a4865f3e7f1cb1",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154",
+    "point": "first_observed_use",
+    "block_number": 110051172,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+    "point": "first_observed_use",
+    "block_number": 110031578,
+    "current_decimals": 8,
+    "historical_decimals": 8,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000008"
+    }
+  },
+  {
+    "address": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 8,
+    "historical_decimals": 8,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000008"
+    }
+  },
+  {
+    "address": "0xd1dba0335a68033eb6966ff7d4f82810ccc2ab07",
+    "point": "first_observed_use",
+    "block_number": 110320553,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd1dba0335a68033eb6966ff7d4f82810ccc2ab07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
+    "point": "first_observed_use",
+    "block_number": 110120043,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd3bbbae9c92b8ffa5f2d228a7cc42ed6856a1901",
+    "point": "first_observed_use",
+    "block_number": 111359877,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd3bbbae9c92b8ffa5f2d228a7cc42ed6856a1901",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd645c10050551e93e40c4c06af4b24f790067777",
+    "point": "first_observed_use",
+    "block_number": 111650617,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd645c10050551e93e40c4c06af4b24f790067777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+    "point": "first_observed_use",
+    "block_number": 110664270,
+    "current_decimals": 10,
+    "historical_decimals": 10,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x000000000000000000000000000000000000000000000000000000000000000a"
+    }
+  },
+  {
+    "address": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 10,
+    "historical_decimals": 10,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x000000000000000000000000000000000000000000000000000000000000000a"
+    }
+  },
+  {
+    "address": "0xd841cedb1d17d0053a5b9db3a684b6df1d889219",
+    "point": "first_observed_use",
+    "block_number": 111365752,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd841cedb1d17d0053a5b9db3a684b6df1d889219",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd8e004acba279417c04c0633cb5a21ceca207777",
+    "point": "first_observed_use",
+    "block_number": 110278107,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xd8e004acba279417c04c0633cb5a21ceca207777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xdcd8114f42fd40db1914de241c75adc9e3c1722e",
+    "point": "first_observed_use",
+    "block_number": 110051620,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xdcd8114f42fd40db1914de241c75adc9e3c1722e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xdef72af3fc69e1dd5a094f7dda08ba203cd0438b",
+    "point": "first_observed_use",
+    "block_number": 111349891,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xdef72af3fc69e1dd5a094f7dda08ba203cd0438b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe01d426b589c7834a5f6b20d7e992a705d3c22ed",
+    "point": "first_observed_use",
+    "block_number": 110928585,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe01d426b589c7834a5f6b20d7e992a705d3c22ed",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe09a93786275546690247d70f1767cf0b69e8ea0",
+    "point": "first_observed_use",
+    "block_number": 111061206,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe09a93786275546690247d70f1767cf0b69e8ea0",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe67ba2f15b90acabe93296038b4f95dfc9615b07",
+    "point": "first_observed_use",
+    "block_number": 110297158,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe67ba2f15b90acabe93296038b4f95dfc9615b07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "point": "first_observed_use",
+    "block_number": 110031596,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xe8f080dc8a3da5aa702525251fbb6ebd8cf9f321",
+    "point": "first_observed_use",
+    "block_number": 111434171,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xe8f080dc8a3da5aa702525251fbb6ebd8cf9f321",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xea17e5a9efebf1477db45082d67010e2245217f1",
+    "point": "first_observed_use",
+    "block_number": 110099199,
+    "current_decimals": 9,
+    "historical_decimals": 9,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000009"
+    }
+  },
+  {
+    "address": "0xea17e5a9efebf1477db45082d67010e2245217f1",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 9,
+    "historical_decimals": 9,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000009"
+    }
+  },
+  {
+    "address": "0xeabfaf9b5ed1c589c53494e36cdd8a7b35a77777",
+    "point": "first_observed_use",
+    "block_number": 111362429,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xeabfaf9b5ed1c589c53494e36cdd8a7b35a77777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xebab9d2a91aa850beb655f50b06f41d33af0ab07",
+    "point": "first_observed_use",
+    "block_number": 111862794,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xebab9d2a91aa850beb655f50b06f41d33af0ab07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xec5393c3ab9a223ffcdd844310e0e71b1793edb1",
+    "point": "first_observed_use",
+    "block_number": 111971679,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xec5393c3ab9a223ffcdd844310e0e71b1793edb1",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+    "point": "first_observed_use",
+    "block_number": 110031578,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xf20bf253c11b733d4898826bf33d2fd92404cb07",
+    "point": "first_observed_use",
+    "block_number": 111418573,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xf20bf253c11b733d4898826bf33d2fd92404cb07",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xf77c5c1a904813fd63871b2bb6a36268edee2c8a",
+    "point": "first_observed_use",
+    "block_number": 111434171,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xf77c5c1a904813fd63871b2bb6a36268edee2c8a",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xf8c257ce9ee59ae0c27be84a733e247e051c2f95",
+    "point": "first_observed_use",
+    "block_number": 110880081,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xf8c257ce9ee59ae0c27be84a733e247e051c2f95",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfa3a1e783e1266b7b091d8b0c36f02a6256f7777",
+    "point": "first_observed_use",
+    "block_number": 111881053,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 8,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfa3a1e783e1266b7b091d8b0c36f02a6256f7777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 9,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfbc1f84ea41c0cf8a850a7f2b148ea8f43fb8f9e",
+    "point": "first_observed_use",
+    "block_number": 110412536,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfbc1f84ea41c0cf8a850a7f2b148ea8f43fb8f9e",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+    "point": "first_observed_use",
+    "block_number": 110039881,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfd97581d397622f6e6662917ea3deeefb9f57777",
+    "point": "first_observed_use",
+    "block_number": 110155180,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 4,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xfd97581d397622f6e6662917ea3deeefb9f57777",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 18,
+    "historical_decimals": 18,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 5,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  },
+  {
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "point": "first_observed_use",
+    "block_number": 110139623,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 6,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  },
+  {
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "point": "sample_end",
+    "block_number": 112033259,
+    "current_decimals": 6,
+    "historical_decimals": 6,
+    "matches": true,
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 7,
+      "result": "0x0000000000000000000000000000000000000000000000000000000000000006"
+    }
+  }
+]

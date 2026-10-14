@@ -1,0 +1,82 @@
+{
+  "exit_code": 0,
+  "elapsed_seconds": 63.31084491299998,
+  "maximum_resident_memory_kib": 1146300,
+  "method": "Fresh unzip; source inputs assembled from binary parts; credential-free run_research.py",
+  "input_files_verified": 17,
+  "compared_outputs": [
+    {
+      "file": "data_quality.json",
+      "exact_match": true
+    },
+    {
+      "file": "market_structure.json",
+      "exact_match": true
+    },
+    {
+      "file": "valuation_coverage.json",
+      "exact_match": true
+    },
+    {
+      "file": "liquidity_event_coverage.json",
+      "exact_match": true
+    },
+    {
+      "file": "ecosystem_context.json",
+      "exact_match": true
+    },
+    {
+      "file": "ecosystem_family_context.json",
+      "exact_match": true
+    },
+    {
+      "file": "order_flow_tests.json",
+      "exact_match": true
+    },
+    {
+      "file": "origin_activity_summary.json",
+      "exact_match": true
+    },
+    {
+      "file": "valuation_sensitivity_summary.json",
+      "exact_match": true
+    },
+    {
+      "file": "final_input_validation.json",
+      "exact_match": true
+    },
+    {
+      "file": "pool_activity.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "pool_valued_volume.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "daily_activity.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "origin_account_activity.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "origin_daily_activity.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "origin_within_week_cohorts.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "valuation_sensitivity.csv",
+      "table_match_rtol_atol": 1e-12
+    },
+    {
+      "file": "forecast_summary.csv",
+      "table_match_rtol_atol": 1e-12
+    }
+  ],
+  "all_comparisons_passed": true
+}

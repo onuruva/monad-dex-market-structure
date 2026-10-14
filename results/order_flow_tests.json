@@ -1,0 +1,464 @@
+[
+  {
+    "horizon_minutes": 1,
+    "train_n": 8296,
+    "test_n": 7634,
+    "pools": 8,
+    "pool_pairs": {
+      "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954": "MON/USDC",
+      "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262": "MON/USDT0",
+      "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e": "MON/USDC",
+      "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e": "USDC/cbBTC",
+      "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93": "USDC/WETH",
+      "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219": "MON/AUSD",
+      "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d": "USDC/mUSD",
+      "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a": "WBTC/USDC"
+    },
+    "train_end": "2026-10-06T23:58:00+00:00",
+    "test_start": "2026-10-07T00:00:00+00:00",
+    "test_end": "2026-10-09T23:56:00+00:00",
+    "train_target_cutoff_bps": 106.31900199679025,
+    "coefficients_raw_units": {
+      "oi": 2.070282471687285,
+      "ret_bps": 0.0871414154677235,
+      "log_depth": 0.7587648226443465,
+      "oi_x_depth": -1.6617674038070092
+    },
+    "oos_r2_vs_zero": 0.02581601582178783,
+    "oos_r2_vs_autoregression": 0.014998879097515627,
+    "rmse_bps": 15.07914882213887,
+    "baseline_rmse_bps": 15.193522211971574,
+    "hour_block_bootstrap": {
+      "blocks": 72,
+      "ci95": [
+        1.4253659044715037,
+        5.75962077015453
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.1303211362210388,
+        6.1040634250817485
+      ],
+      "mean_loss_reduction": 3.462388005461465
+    },
+    "four_hour_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        1.4523935542823285,
+        5.549323987446381
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.118773440544555,
+        5.995997106522751
+      ],
+      "mean_loss_reduction": 3.462388005461465
+    },
+    "oos_r2_vs_depth_control": 0.016663175656701834,
+    "flow_only_oos_r2_vs_autoregression": 0.01962472881721289,
+    "interaction_oos_r2_vs_no_interaction": -0.0027882064763364856,
+    "flow_increment_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        2.236183282710076,
+        5.633595647534763
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.88109521433547,
+        5.929858529659521
+      ],
+      "mean_loss_reduction": 3.8530897428176756
+    },
+    "per_pool_holdout": [
+      {
+        "pool_id": "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954",
+        "full_loss": 278.73141978579326,
+        "ar_loss": 278.4003682158692,
+        "depth_loss": 279.29559806560155,
+        "r2_vs_ar": -0.0011891204456575544,
+        "r2_vs_depth_control": 0.0020200041952532777
+      },
+      {
+        "pool_id": "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262",
+        "full_loss": 413.5449220343155,
+        "ar_loss": 442.53766872479304,
+        "depth_loss": 442.53462176165476,
+        "r2_vs_ar": 0.06551475442536314,
+        "r2_vs_depth_control": 0.06550832025737607
+      },
+      {
+        "pool_id": "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e",
+        "full_loss": 798.8325011715444,
+        "ar_loss": 823.1227229652302,
+        "depth_loss": 822.4678424410253,
+        "r2_vs_ar": 0.0295098423551986,
+        "r2_vs_depth_control": 0.028737100771420887
+      },
+      {
+        "pool_id": "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e",
+        "full_loss": 42.42761660346163,
+        "ar_loss": 44.520343010510885,
+        "depth_loss": 44.57778965582896,
+        "r2_vs_ar": 0.04700607105734067,
+        "r2_vs_depth_control": 0.048234178252626214
+      },
+      {
+        "pool_id": "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93",
+        "full_loss": 59.50250427100301,
+        "ar_loss": 61.071431814695096,
+        "depth_loss": 61.0727244065095,
+        "r2_vs_ar": 0.02569004028680011,
+        "r2_vs_depth_control": 0.025710661359314213
+      },
+      {
+        "pool_id": "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219",
+        "full_loss": 471.76070052034487,
+        "ar_loss": 488.39707951815933,
+        "depth_loss": 488.20600829995055,
+        "r2_vs_ar": 0.03406322374865045,
+        "r2_vs_depth_control": 0.03368518105066376
+      },
+      {
+        "pool_id": "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d",
+        "full_loss": 2.804616123388576,
+        "ar_loss": 0.002958550268779466,
+        "depth_loss": 0.0029731320546640817,
+        "r2_vs_ar": -946.9697380790509,
+        "r2_vs_depth_control": -942.3204014563876
+      },
+      {
+        "pool_id": "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a",
+        "full_loss": 109.16881409034157,
+        "ar_loss": 115.71423069738347,
+        "depth_loss": 115.73357041499372,
+        "r2_vs_ar": 0.05656535559709608,
+        "r2_vs_depth_control": 0.0567230087269619
+      }
+    ],
+    "trimmed_oos_r2_vs_autoregression": 0.01402879679711333,
+    "exclude_largest_pool_oos_r2_vs_autoregression": 0.03568434936422615,
+    "daily_loss": [
+      {
+        "date": "2026-10-07",
+        "full_loss": 185.99791341393382,
+        "base_loss": 190.8741373984719
+      },
+      {
+        "date": "2026-10-08",
+        "full_loss": 313.6345026687412,
+        "base_loss": 318.2068688512673
+      },
+      {
+        "date": "2026-10-09",
+        "full_loss": 143.8515228255667,
+        "base_loss": 143.96554594651198
+      }
+    ]
+  },
+  {
+    "horizon_minutes": 5,
+    "train_n": 7781,
+    "test_n": 7193,
+    "pools": 8,
+    "pool_pairs": {
+      "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954": "MON/USDC",
+      "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262": "MON/USDT0",
+      "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e": "MON/USDC",
+      "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e": "USDC/cbBTC",
+      "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93": "USDC/WETH",
+      "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219": "MON/AUSD",
+      "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d": "USDC/mUSD",
+      "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a": "WBTC/USDC"
+    },
+    "train_end": "2026-10-06T23:54:00+00:00",
+    "test_start": "2026-10-07T00:00:00+00:00",
+    "test_end": "2026-10-09T23:51:00+00:00",
+    "train_target_cutoff_bps": 233.47188343056246,
+    "coefficients_raw_units": {
+      "oi": 2.4519201221713764,
+      "ret_bps": 0.017858361722835874,
+      "log_depth": 0.09174093746983289,
+      "oi_x_depth": -0.5249507361573182
+    },
+    "oos_r2_vs_zero": 0.008526327813982104,
+    "oos_r2_vs_autoregression": 0.005989470866061719,
+    "rmse_bps": 34.41945288540429,
+    "baseline_rmse_bps": 34.522995397039935,
+    "hour_block_bootstrap": {
+      "blocks": 72,
+      "ci95": [
+        2.081181451089093,
+        12.531554338377875
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.1776466760350597,
+        14.052469529607329
+      ],
+      "mean_loss_reduction": 7.138474253474933
+    },
+    "four_hour_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        1.9823005468036716,
+        12.001515600759323
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.333569540929431,
+        13.243161463956715
+      ],
+      "mean_loss_reduction": 7.138474253474933
+    },
+    "oos_r2_vs_depth_control": 0.006063934839588669,
+    "flow_only_oos_r2_vs_autoregression": 0.006009975862492634,
+    "interaction_oos_r2_vs_no_interaction": 6.497280874717681e-05,
+    "flow_increment_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        2.338183868034525,
+        11.78550060156228
+      ],
+      "ci9833_three_horizon_adjustment": [
+        1.6037496529591586,
+        13.035653966634943
+      ],
+      "mean_loss_reduction": 7.227764639097299
+    },
+    "per_pool_holdout": [
+      {
+        "pool_id": "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954",
+        "full_loss": 1415.2701296758394,
+        "ar_loss": 1417.925707013268,
+        "depth_loss": 1418.2029023382258,
+        "r2_vs_ar": 0.001872860703698187,
+        "r2_vs_depth_control": 0.0020679499791963485
+      },
+      {
+        "pool_id": "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262",
+        "full_loss": 2982.154620770519,
+        "ar_loss": 3039.4908508022586,
+        "depth_loss": 3039.241866227805,
+        "r2_vs_ar": 0.01886376134891332,
+        "r2_vs_depth_control": 0.01878338347850561
+      },
+      {
+        "pool_id": "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e",
+        "full_loss": 4513.695079649378,
+        "ar_loss": 4585.36331897515,
+        "depth_loss": 4585.237998494277,
+        "r2_vs_ar": 0.015629784237422117,
+        "r2_vs_depth_control": 0.015602880127136842
+      },
+      {
+        "pool_id": "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e",
+        "full_loss": 291.45773376933175,
+        "ar_loss": 299.1747913002777,
+        "depth_loss": 299.17309339142315,
+        "r2_vs_ar": 0.025794477861607157,
+        "r2_vs_depth_control": 0.02578894891459038
+      },
+      {
+        "pool_id": "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93",
+        "full_loss": 431.28501929276086,
+        "ar_loss": 436.2851132388914,
+        "depth_loss": 436.17989675213016,
+        "r2_vs_ar": 0.011460610950052574,
+        "r2_vs_depth_control": 0.01122215282230421
+      },
+      {
+        "pool_id": "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219",
+        "full_loss": 2313.6067961142858,
+        "ar_loss": 2333.2508153997246,
+        "depth_loss": 2333.0806322744625,
+        "r2_vs_ar": 0.008419163150307774,
+        "r2_vs_depth_control": 0.008346833748815619
+      },
+      {
+        "pool_id": "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d",
+        "full_loss": 3.4253115832956333,
+        "ar_loss": 0.004605589353193395,
+        "depth_loss": 0.004613502813117925,
+        "r2_vs_ar": -742.7292647293037,
+        "r2_vs_depth_control": -741.4535590519602
+      },
+      {
+        "pool_id": "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a",
+        "full_loss": 606.3551569255906,
+        "ar_loss": 618.6261842445044,
+        "depth_loss": 618.6119750598414,
+        "r2_vs_ar": 0.019835932638221254,
+        "r2_vs_depth_control": 0.019813418796273963
+      }
+    ],
+    "trimmed_oos_r2_vs_autoregression": 0.005122651310739523,
+    "exclude_largest_pool_oos_r2_vs_autoregression": 0.011840256251332448,
+    "daily_loss": [
+      {
+        "date": "2026-10-07",
+        "full_loss": 1073.6390282584957,
+        "base_loss": 1076.0313621059747
+      },
+      {
+        "date": "2026-10-08",
+        "full_loss": 1547.5575967084771,
+        "base_loss": 1559.390366218686
+      },
+      {
+        "date": "2026-10-09",
+        "full_loss": 758.9745999514055,
+        "base_loss": 764.3977535007997
+      }
+    ]
+  },
+  {
+    "horizon_minutes": 15,
+    "train_n": 7680,
+    "test_n": 7171,
+    "pools": 8,
+    "pool_pairs": {
+      "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954": "MON/USDC",
+      "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262": "MON/USDT0",
+      "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e": "MON/USDC",
+      "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e": "USDC/cbBTC",
+      "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93": "USDC/WETH",
+      "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219": "MON/AUSD",
+      "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d": "USDC/mUSD",
+      "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a": "WBTC/USDC"
+    },
+    "train_end": "2026-10-06T23:44:00+00:00",
+    "test_start": "2026-10-07T00:00:00+00:00",
+    "test_end": "2026-10-09T23:40:00+00:00",
+    "train_target_cutoff_bps": 406.91064998287106,
+    "coefficients_raw_units": {
+      "oi": 2.1800913716334853,
+      "ret_bps": -0.039475323669708476,
+      "log_depth": 5.532326064635843,
+      "oi_x_depth": -6.690823913383025
+    },
+    "oos_r2_vs_zero": -0.0027102611967388945,
+    "oos_r2_vs_autoregression": -0.0060731083342657755,
+    "rmse_bps": 55.006852731252366,
+    "baseline_rmse_bps": 54.84057841270243,
+    "hour_block_bootstrap": {
+      "blocks": 72,
+      "ci95": [
+        -60.95840317099853,
+        28.328089279159254
+      ],
+      "ci9833_three_horizon_adjustment": [
+        -72.77039516001236,
+        40.77455517665545
+      ],
+      "mean_loss_reduction": -18.264806757922493
+    },
+    "four_hour_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        -76.2129788897917,
+        44.046478525622064
+      ],
+      "ci9833_three_horizon_adjustment": [
+        -90.07770739877716,
+        60.03153304446069
+      ],
+      "mean_loss_reduction": -18.264806757922493
+    },
+    "oos_r2_vs_depth_control": -0.0022984469078157765,
+    "flow_only_oos_r2_vs_autoregression": 0.0019939394492842766,
+    "interaction_oos_r2_vs_no_interaction": -0.004510674444056173,
+    "flow_increment_block_bootstrap": {
+      "blocks": 18,
+      "ci95": [
+        -32.718869365626965,
+        18.792270083706505
+      ],
+      "ci9833_three_horizon_adjustment": [
+        -36.80526720360751,
+        24.26530905837728
+      ],
+      "mean_loss_reduction": -6.938586601445089
+    },
+    "per_pool_holdout": [
+      {
+        "pool_id": "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954",
+        "full_loss": 3976.692916707042,
+        "ar_loss": 3922.8919395010457,
+        "depth_loss": 3950.9596360014793,
+        "r2_vs_ar": -0.013714621263016369,
+        "r2_vs_depth_control": -0.006513172261006783
+      },
+      {
+        "pool_id": "0x21751b14f200827b17546330b42ee3969fd703681db8fe7ba35c95fe617b0262",
+        "full_loss": 5073.718385566458,
+        "ar_loss": 5049.771610044319,
+        "depth_loss": 5033.62751431223,
+        "r2_vs_ar": -0.004742150214181562,
+        "r2_vs_depth_control": -0.007964608255226713
+      },
+      {
+        "pool_id": "0x7d892749d0562b0f78a26cdec26e97ec9dc7f8d1997cb590643ab69f10a1da0e",
+        "full_loss": 4287.6369050605035,
+        "ar_loss": 4342.046119874597,
+        "depth_loss": 4343.975250182193,
+        "r2_vs_ar": 0.01253077772828104,
+        "r2_vs_depth_control": 0.012969306194671959
+      },
+      {
+        "pool_id": "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e",
+        "full_loss": 875.4773390879805,
+        "ar_loss": 883.124275977039,
+        "depth_loss": 883.2353540734937,
+        "r2_vs_ar": 0.008658958990339638,
+        "r2_vs_depth_control": 0.008783632753980197
+      },
+      {
+        "pool_id": "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93",
+        "full_loss": 1421.8757749812316,
+        "ar_loss": 1435.8596241645935,
+        "depth_loss": 1430.2879194472523,
+        "r2_vs_ar": 0.009739008568820151,
+        "r2_vs_depth_control": 0.005881434326363899
+      },
+      {
+        "pool_id": "0xadaf30776f551bccdfb307c3fd8cdec198ca9a852434c8022ee32d1ccedd8219",
+        "full_loss": 4827.934151825356,
+        "ar_loss": 4856.430762627204,
+        "depth_loss": 4845.824009595472,
+        "r2_vs_ar": 0.005867809548762537,
+        "r2_vs_depth_control": 0.003691809222681419
+      },
+      {
+        "pool_id": "0xc4105dd13e1027d2db1a8b80bed2276378f1c57cc0cb69f9937cdffbea39635d",
+        "full_loss": 2.6676392494152092,
+        "ar_loss": 0.010919955249118405,
+        "depth_loss": 0.013126445698070876,
+        "r2_vs_ar": -243.2903096723381,
+        "r2_vs_depth_control": -202.2263196584326
+      },
+      {
+        "pool_id": "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a",
+        "full_loss": 1190.8031257466673,
+        "ar_loss": 1215.6221256723534,
+        "depth_loss": 1215.9552024980892,
+        "r2_vs_ar": 0.02041670631155945,
+        "r2_vs_depth_control": 0.020685035682029063
+      }
+    ],
+    "trimmed_oos_r2_vs_autoregression": -0.0061428913932981555,
+    "exclude_largest_pool_oos_r2_vs_autoregression": 0.007668476930375867,
+    "daily_loss": [
+      {
+        "date": "2026-10-07",
+        "full_loss": 2796.585291910819,
+        "base_loss": 2804.7835973548817
+      },
+      {
+        "date": "2026-10-08",
+        "full_loss": 3693.5195016228136,
+        "base_loss": 3716.589068896162
+      },
+      {
+        "date": "2026-10-09",
+        "full_loss": 2244.614023402791,
+        "base_loss": 2131.5085551464053
+      }
+    ]
+  }
+]

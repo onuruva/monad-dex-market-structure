@@ -1,0 +1,12 @@
+{
+  "concentration": {
+    "n": 19,
+    "hhi": 0.5099854746092196,
+    "hhi_10000": 5099.854746092196,
+    "gini": 0.840298575091276,
+    "top1_share": 0.7044120633585794,
+    "top5_share": 0.9273062249080315
+  },
+  "uniswap_family_share": 0.7044120633585794,
+  "classification": "Protocol parent labels from the provider; missing parent retained separately. Distinct versions pooled by parent, not legal ownership verification."
+}

@@ -1,0 +1,1397 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "token_name": "Monad",
+    "symbol": "MON",
+    "decimals": 18,
+    "metadata_source": "native",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "token_name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x005d214a4edb0d5b425b20b8beae398d4abd0b7d",
+    "token_name": "Little Italy Omission",
+    "symbol": "ITALY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x0158abff6d8344b35b5afffe7dbefc431b731a70",
+    "token_name": "MONCAT",
+    "symbol": "MONCAT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "token_name": "XAUt0",
+    "symbol": "XAUt0",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x032dcb76ddf2d0fd44bed17b3f8a4599c44e1b07",
+    "token_name": "AVGO",
+    "symbol": "AVGO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "token_name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x08a636cb63b7a63a232b074ea3591b4d64396b07",
+    "token_name": "JKU",
+    "symbol": "JakaralUnited",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x0a332311633c0625f63cfc51ee33fc49826e0a3c",
+    "token_name": "aPriori",
+    "symbol": "APR",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x0cc9b2e2acd7bacff79eb7db48f5662b622e7777",
+    "token_name": "MONI",
+    "symbol": "MONI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x0e8a4f5c5c6dd44ebeabed5073582ce48be112aa",
+    "token_name": "Stage Seed Round",
+    "symbol": "SEED",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x1001ff13bf368aa4fa85f21043648079f00e1001",
+    "token_name": "LeverUp",
+    "symbol": "LV",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x10167798d28dd29c76441871bd0029f0d220ab07",
+    "token_name": "base",
+    "symbol": "SOLANA",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+    "token_name": "earnAUSD",
+    "symbol": "earnAUSD",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417",
+    "token_name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x1111b3ded9f1fe1801ad4ebef8e2788183a24111",
+    "token_name": "Newrails Euro",
+    "symbol": "EURW",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x11828ceb9ba1ebb918f88f07057b9030e4303b07",
+    "token_name": "Government Efficiency Commisi",
+    "symbol": "GEC",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x11b250f232156e2090643bb644f62fa3e9f37901",
+    "token_name": "GMONAD",
+    "symbol": "GMONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x11ed3b12d99d508f926c870fb44f472001842c96",
+    "token_name": "Ignis",
+    "symbol": "IGN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x1446501e886c7f830db9b494a1890cbccc072f57",
+    "token_name": "Invesco QQQ aStock",
+    "symbol": "aQQQ",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+    "token_name": "ShMonad",
+    "symbol": "shMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "token_name": "Staked USDe",
+    "symbol": "sUSDe",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x214449c983393a8acf882f0316aab140161cdb07",
+    "token_name": "X402",
+    "symbol": "X402",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x21e325b059cd83d4037c82f0f5998ba2df3d7777",
+    "token_name": "Bob",
+    "symbol": "BOB",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x22cd99ec337a2811f594340a4a6e41e4a3022b07",
+    "token_name": "m00nad",
+    "symbol": "m00n",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x266652d8f23673f23f8c6bbf42e7bce2f287fb07",
+    "token_name": "ORE FUND RESERVE",
+    "symbol": "OFR",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x27c8b46e60b423d69ca38e61e9b46d1271796b01",
+    "token_name": "MONCAT",
+    "symbol": "MONCAT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x2a3c052def53e7b375388fa5c48bf83a42327777",
+    "token_name": "MBstock",
+    "symbol": "MBstock",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x2abc42250154752273a4560e875c858623f83ecc",
+    "token_name": "Agua Global Carry Vault",
+    "symbol": "aguaUSDCgc",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x2fbcb475de6b91b39805377a87afca01cd617777",
+    "token_name": "Luci",
+    "symbol": "lUCI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x34becbbd5b88d1149300615b914df445b9538f01",
+    "token_name": "moncock",
+    "symbol": "moncock",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
+    "token_name": "Chog",
+    "symbol": "CHOG",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x37ad809e22af699c2d0c14b26c93d5ead9f4a9dc",
+    "token_name": "Mashinsky's Penalty",
+    "symbol": "PENALTY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x3842751a46d23b41a47e702473dff316e6237777",
+    "token_name": "143",
+    "symbol": "143",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x39b9e06f226ff6d7500c870b82333aacbd2f7777",
+    "token_name": "NADS",
+    "symbol": "NADS",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+    "token_name": "Wrapped MON",
+    "symbol": "WMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x3e459bea2a3efab22ce12358e672dd31a9594d34",
+    "token_name": "GOLD Token",
+    "symbol": "$GOLD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x3ebbbaa60c309ec7d857a399051a5e20eb886215",
+    "token_name": "Crystal Cat",
+    "symbol": "CRYS",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x405b6330e213ded490240cbcdd64790806827777",
+    "token_name": "moncock",
+    "symbol": "moncock",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x4147a0c89a83faba5d401e644e110a1c5f67bd8b",
+    "token_name": "YT earnAUSD 8OCT2026",
+    "symbol": "YT-earnAUSD-8OCT2026",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x42a4aa89864a794de135b23c6a8d2e05513d7777",
+    "token_name": "shramp",
+    "symbol": "shramp",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x436662f54fd3ac7b740ddda87f8298c22aac7777",
+    "token_name": "AUNI",
+    "symbol": "AUNI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x43cf5407bda1400498b8064d50a7e17528d87777",
+    "token_name": "The Busy Bull of Monad",
+    "symbol": "JAMES",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x44812436147d162ce0a6b573dbcc7492ef117777",
+    "token_name": "Pam Pam",
+    "symbol": "PAMPAM",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x461b9befb3c81c988501c89f5caaba03b02565d0",
+    "token_name": "SERIES9",
+    "symbol": "SER9",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x4644fd1eab16a21969b4c16be8a2d5c986033f2a",
+    "token_name": "Wendy's aStock",
+    "symbol": "aWEN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x47464de4571af679505a90b69cce8670804b7777",
+    "token_name": "Happy Pandas",
+    "symbol": "HAPPY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x4763b7f46e21034186fe0197c3b4b53abd69b801",
+    "token_name": "MOONad",
+    "symbol": "MOONad",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
+    "token_name": "Kuru Vault",
+    "symbol": "KURU-VAULT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x4d2ea892c083fff63a556b82c2ef893709d77777",
+    "token_name": "Monad Cat",
+    "symbol": "CATLABS",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x527d86b0820a72f7dfb937fe1da0c649019b7777",
+    "token_name": "GOCHI",
+    "symbol": "GOCHI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5548d8405f343a6075a46a45cb954bceb8ba4e79",
+    "token_name": "Meta EuroCoin",
+    "symbol": "EURO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5792753b66eb5213e416755546abbcc1aef1008a",
+    "token_name": "EVK Vault eUSDC-7",
+    "symbol": "eUSDC-7",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5a4860addcc094fce026384caeecb1e634dd9af4",
+    "token_name": "Robinhood aStock",
+    "symbol": "aHOOD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5a92c82c2f6b00347ca74a102178a20077171501",
+    "token_name": "mochidotmeme",
+    "symbol": "Mochi",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5ba9ff9d3a42c8f9317372c61de8ea993a9b7777",
+    "token_name": "LUCKY MON",
+    "symbol": "LUCKY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "token_name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x5dff3639e19d1c164aedf5affd1c049b5fe17777",
+    "token_name": "runner",
+    "symbol": "RUN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+    "token_name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x5ef52de74245cf277870235407ee216838114343",
+    "token_name": "PurplX",
+    "symbol": "PURPLX",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x62cfe42ff634ae8d31250551b1c00222eb6a1fb5",
+    "token_name": "Dont Buy",
+    "symbol": "DONTBUY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x62f28f9d5b5fe1befa0060c54f6d157e80617777",
+    "token_name": "Moonad",
+    "symbol": "MOO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x6301e4fd1b963cb89d1c53c54ddebd2a820ff222",
+    "token_name": "nomadpad.fun",
+    "symbol": "NOMAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x6458bcb50c52ff5aeff03a1ef70517dcc2f04b07",
+    "token_name": "Doom",
+    "symbol": "ENX",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x6f8b615425de5cca4ef1fc3270a114a94f000601",
+    "token_name": "NAD",
+    "symbol": "NAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x701193374879131f923532987c7ef363a91a80eb",
+    "token_name": "NVIDIA aStock",
+    "symbol": "aNVDA",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x708bbce3754412ce02e1e21a515e52188706db07",
+    "token_name": "XLM",
+    "symbol": "XLM",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x70c76f7ad7a818db090af60a90fab5b5a16ccb07",
+    "token_name": "AlphabetPump",
+    "symbol": "ALPHABE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "token_name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x788571e0e5067adea87e6ba22a2b738ffdf48888",
+    "token_name": "UNIT",
+    "symbol": "UNIT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7b2728c04ad436153285702e969e6efac3a97777",
+    "token_name": "MOLANDAK",
+    "symbol": "MOLANDAK",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7b6ec4ff353583807f3478900d7eaede430c7777",
+    "token_name": "MOG",
+    "symbol": "MOGNAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7d1df8c48b0a179a67853c7cb0239c9bc9e7b101",
+    "token_name": "Private Cat",
+    "symbol": "PCAT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+    "token_name": "GMONAD",
+    "symbol": "GMONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7e8bdf7d262a6e4ff9302af49f2cdb022b587777",
+    "token_name": "Wraith",
+    "symbol": "WRAITH",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x7f0727fc4de75a9c6a7feb7a60ae5ba3bd31b047",
+    "token_name": "FolioMonad.fun",
+    "symbol": "FOLIO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x81573fde496451de098860eb2d0601d362b0ca84",
+    "token_name": "PetroNad",
+    "symbol": "PETRO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x81a224f8a62f52bde942dbf23a56df77a10b7777",
+    "token_name": "emonad",
+    "symbol": "emo",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+    "token_name": "gMON",
+    "symbol": "gMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x89459eebf132d6dc322d9aab82a61313f1c88401",
+    "token_name": "MochiMeme",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x8da32752ea895313d334cc6f79fbda4549b697b4",
+    "token_name": "Wowtoken",
+    "symbol": "WOW",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x8ecfbd3b88e2c72c44e5754e4c1028f20f596b07",
+    "token_name": "Monrock",
+    "symbol": "Mrk",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56",
+    "token_name": "LeverUp MON",
+    "symbol": "LVMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0x938eb0cb3f9d528fd0d845c3308b75cc8fb2263b",
+    "token_name": "ATLANTIS",
+    "symbol": "ATL",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x9603cc38f8059cb1c8bdd2f28858b39c980725df",
+    "token_name": "Pawan",
+    "symbol": "PAWAN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x97401d48a80b15bc7291599e24b590eedcd7ce37",
+    "token_name": "HYPERSTITIONS",
+    "symbol": "HST",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x99ae2dc76c43979e3bcc0ae8d69f1fca077c8888",
+    "token_name": "Anago",
+    "symbol": "ANAGO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x9a5baa12664c89cfbf5cfcd9d0d4805bdcab29e8",
+    "token_name": "omnichain.family",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0x9db7196706fe7e688af71b0a86699f509d313b07",
+    "token_name": "Trump Tokenized Real Estate",
+    "symbol": "TTR",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "token_name": "Kintsu Staked Monad",
+    "symbol": "sMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "token_name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xa44eaeac76f0886c6263de90f0fe456c569227a3",
+    "token_name": "Floor Test monad",
+    "symbol": "FT143",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xa64258851fc1712c21fd534031d7aae7e0937301",
+    "token_name": "OPEN",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xa7b3f394b9aaba67f2543a8c1a0f753cc68d7777",
+    "token_name": "GONAD",
+    "symbol": "GONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xa9da3c77ec7cdc4dfaa1fe142af583543d1c540f",
+    "token_name": "Fling",
+    "symbol": "FLING",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xab6e5a0c3799d020c790d34f7b2c02639e238af7",
+    "token_name": "Syrup USDC",
+    "symbol": "syrupUSDC",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "token_name": "MetaMask USD",
+    "symbol": "mUSD",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xaccd61772bcd3717546f141382b68b6d2ef17777",
+    "token_name": "I WILL RUG U",
+    "symbol": "IWRU",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+    "token_name": "Pixie Dust",
+    "symbol": "DUST",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xafac6c25c6276f1a7766c7da788350c280ec9301",
+    "token_name": "happy montober",
+    "symbol": "MONTOBER",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b54ee60dad19885d2ab8de3e5bdb8b5cb927a",
+    "token_name": "Dominican Peso",
+    "symbol": "DOP",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b5d1ec330be68dbe96097817daedb1e7ca87c",
+    "token_name": "BONAD",
+    "symbol": "BONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b64ff7203456dd61ea432a95d2dc10d35e0a9",
+    "token_name": "MONCAT",
+    "symbol": "MONCAT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b69155adfa5f0740c26b04e55b0ef954eaa5e",
+    "token_name": "Top 1 meme on Monad",
+    "symbol": "MONAD INU",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b73b385ec352d0afccc50838e8d5c50735b39",
+    "token_name": "the only token with a pair",
+    "symbol": "GONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b9c6af13fe50b99f751309db8783bf7b2924e",
+    "token_name": "GREENFROG",
+    "symbol": "FROG",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00b9f5e675133fa7d53ec36368fec74187eaae1",
+    "token_name": "Bonad Token",
+    "symbol": "BONAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00bb8c0d4a67e1b7ae4c1b3c745db26d2884480",
+    "token_name": "RANGO",
+    "symbol": "RANGO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00bcd5b6a57537a783c49cfa0304f79bd4945d9",
+    "token_name": "Ophiocordyceps, Massospora, Entomophthora muscae",
+    "symbol": "OMN",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00bcfdfdd3d4442118e14eb81ec7b35a86c9396",
+    "token_name": "KISHU INU",
+    "symbol": "KISHU",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00bd9ff3affc71c851e9c295632a6b0bbb75652",
+    "token_name": "Mini Pizza",
+    "symbol": "MINIP",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00bf8707a134ad88d0eec891932d18cc109ae8a",
+    "token_name": "KINTSU",
+    "symbol": "KSU",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb00fe98687738d90a7a1a3690820dc3a1061eb07",
+    "token_name": "Prosperity Web Coin",
+    "symbol": "PWC",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb0a788d09e7da1582012721bea1d16d2aafb7777",
+    "token_name": "Busy Land",
+    "symbol": "BUSY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb23d163068bfb585f2e81a1182b3fa0e66e5ab39",
+    "token_name": "MONKEY",
+    "symbol": "MONKEY",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb53c4fb340aa926b2ac9954a1bb6dc83fd2b8a01",
+    "token_name": "DOGGG",
+    "symbol": "DOGGG",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xb5f0ff14ced681315751138a3ef6ee90e4afbdf5",
+    "token_name": "asdf",
+    "symbol": "asdf",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xbc19ac589c66e3661b8dce5caa29838279bd733a",
+    "token_name": "MON Yield Coin - backed by gMON (x5/3M)",
+    "symbol": "MON.b.gMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc1f88f22c6834a93470f68202285330dfb5b2e86",
+    "token_name": "Bridged Robinhood NVDA",
+    "symbol": "NVDA",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc3932f079ea871af1a18e6530b9f9e8eab5bda4f",
+    "token_name": "gMON x5 Leverage Coin (MON/3M)",
+    "symbol": "gMONx5.MON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc50358378b7effb24f5cccbdf8a2c7386e6c1d17",
+    "token_name": "LMH",
+    "symbol": "LMH",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc79928c399bdb86d04fee7a088c915c0fffc45c0",
+    "token_name": "MonaTide.fun",
+    "symbol": "MONATIDE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc88cacd6fe1838c8dd1f0244b6cc0dee910dd261",
+    "token_name": "AethonSwap",
+    "symbol": "AETHON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xc911ba7aee487f5145702c20c20a40d9e5b87777",
+    "token_name": "Hog Dog",
+    "symbol": "HOGDOG",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xccf3517f5b75b75aa599702c90a8a2cc297791f4",
+    "token_name": "OpenTokens",
+    "symbol": "TOKEN",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd032d4ec756e878f21ba683fd2a4865f3e7f1cb1",
+    "token_name": "MonadGPT",
+    "symbol": "MGPT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154",
+    "token_name": "Neverland Interest Bearing WMON",
+    "symbol": "nWMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+    "token_name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xd1dba0335a68033eb6966ff7d4f82810ccc2ab07",
+    "token_name": "Entrax",
+    "symbol": "ENT",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
+    "token_name": "molandak",
+    "symbol": "MOLANDAK",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd3bbbae9c92b8ffa5f2d228a7cc42ed6856a1901",
+    "token_name": "Monad Cat",
+    "symbol": "CATLABS",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd645c10050551e93e40c4c06af4b24f790067777",
+    "token_name": "STOA",
+    "symbol": "STOA",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+    "token_name": "eBTC",
+    "symbol": "eBTC",
+    "decimals": 10,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xd841cedb1d17d0053a5b9db3a684b6df1d889219",
+    "token_name": "FUZE",
+    "symbol": "FUZE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xd8e004acba279417c04c0633cb5a21ceca207777",
+    "token_name": "Moe",
+    "symbol": "MOE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xdcd8114f42fd40db1914de241c75adc9e3c1722e",
+    "token_name": "Chaos Magick Group (CMG)",
+    "symbol": "CHAOS",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xdef72af3fc69e1dd5a094f7dda08ba203cd0438b",
+    "token_name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xe01d426b589c7834a5f6b20d7e992a705d3c22ed",
+    "token_name": "Curvance Wrapped MON",
+    "symbol": "cWMON",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xe09a93786275546690247d70f1767cf0b69e8ea0",
+    "token_name": "Hyperithm cbBTC Apex",
+    "symbol": "hypercbBTCa",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xe67ba2f15b90acabe93296038b4f95dfc9615b07",
+    "token_name": "Burger Money",
+    "symbol": "Burgers",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "token_name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xe8f080dc8a3da5aa702525251fbb6ebd8cf9f321",
+    "token_name": "Wrapped\u24cfcash",
+    "symbol": "wZEC",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xea17e5a9efebf1477db45082d67010e2245217f1",
+    "token_name": "Wrapped SOL",
+    "symbol": "SOL",
+    "decimals": 9,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xeabfaf9b5ed1c589c53494e36cdd8a7b35a77777",
+    "token_name": "Mushroom",
+    "symbol": "MUSHROOM",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xebab9d2a91aa850beb655f50b06f41d33af0ab07",
+    "token_name": "^w^",
+    "symbol": "KITTEHSMILE",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xec5393c3ab9a223ffcdd844310e0e71b1793edb1",
+    "token_name": "heehee420",
+    "symbol": "heehee420",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+    "token_name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xf20bf253c11b733d4898826bf33d2fd92404cb07",
+    "token_name": "Bank Of Monad",
+    "symbol": "MONBANK",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xf77c5c1a904813fd63871b2bb6a36268edee2c8a",
+    "token_name": "MonadUSD",
+    "symbol": "mUSD",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xf8c257ce9ee59ae0c27be84a733e247e051c2f95",
+    "token_name": "privad.fun",
+    "symbol": "PRIVAD",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xfa3a1e783e1266b7b091d8b0c36f02a6256f7777",
+    "token_name": "MPCX",
+    "symbol": "MPCX",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xfbc1f84ea41c0cf8a850a7f2b148ea8f43fb8f9e",
+    "token_name": "Gmonad",
+    "symbol": "Gmonad",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+    "token_name": "Gho Token",
+    "symbol": "GHO",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  },
+  {
+    "address": "0xfd97581d397622f6e6662917ea3deeefb9f57777",
+    "token_name": "BURNING CHOG",
+    "symbol": "BCHOG",
+    "decimals": 18,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": false
+  },
+  {
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "token_name": "Folks Finance",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "metadata_source": "onchain_erc20",
+    "lookup_block": "0x6b96a86",
+    "tokenlist_match": true
+  }
+]

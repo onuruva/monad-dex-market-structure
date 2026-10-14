@@ -1,0 +1,15 @@
+{
+  "raw_source_rows_verified_in_database": 409146,
+  "frozen_swap_and_other_event_ids": 409146,
+  "other_raw_events": 7084,
+  "swap_events": 402062,
+  "distinct_transactions": 301134,
+  "canonical_origin_matches": 402062,
+  "missing_origin_matches": 0,
+  "canonical_mismatches": 0,
+  "raw_abi_sample": 100,
+  "numeric_comparisons": 600,
+  "pool_and_caller_comparisons": 200,
+  "independent_sender_probe_matches": 51,
+  "successful_receipts": 301134
+}

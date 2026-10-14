@@ -1,0 +1,85 @@
+{
+  "scenarios": [
+    {
+      "scenario": "Primary 60 seconds",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 157562166.88846606,
+      "top5_volume_share_pct": 85.95277818745342,
+      "hhi_10000": 2107.8364443594664
+    },
+    {
+      "scenario": "30 second marks",
+      "valued_events": 388606,
+      "event_coverage_pct": 96.65325248344783,
+      "usd_equivalent_volume": 155896837.90504164,
+      "top5_volume_share_pct": 86.46867877112798,
+      "hhi_10000": 2138.579377430605
+    },
+    {
+      "scenario": "120 second marks",
+      "valued_events": 396980,
+      "event_coverage_pct": 98.73601583835328,
+      "usd_equivalent_volume": 159475692.8436119,
+      "top5_volume_share_pct": 85.0253316699602,
+      "hhi_10000": 2070.6334241987265
+    },
+    {
+      "scenario": "2 percent leg tolerance",
+      "valued_events": 393553,
+      "event_coverage_pct": 97.88365973407086,
+      "usd_equivalent_volume": 157562165.8100162,
+      "top5_volume_share_pct": 85.95277825005758,
+      "hhi_10000": 2107.836462057138
+    },
+    {
+      "scenario": "10 percent leg tolerance",
+      "valued_events": 393665,
+      "event_coverage_pct": 97.91151613432754,
+      "usd_equivalent_volume": 157562167.54406264,
+      "top5_volume_share_pct": 85.95277813246807,
+      "hhi_10000": 2107.836433440448
+    },
+    {
+      "scenario": "All quote anchors minus 1 percent",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 155986545.21958143,
+      "top5_volume_share_pct": 85.95277818745342,
+      "hhi_10000": 2107.8364443594664
+    },
+    {
+      "scenario": "All quote anchors plus 1 percent",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 159137788.55735075,
+      "top5_volume_share_pct": 85.95277818745342,
+      "hhi_10000": 2107.8364443594664
+    },
+    {
+      "scenario": "USDC minus 1 percent",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 155988938.8249738,
+      "top5_volume_share_pct": 85.95145926679845,
+      "hhi_10000": 2107.771882472582
+    },
+    {
+      "scenario": "USDT0 minus 1 percent",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 157560056.3267964,
+      "top5_volume_share_pct": 85.95392954931044,
+      "hhi_10000": 2107.892795253806
+    },
+    {
+      "scenario": "AUSD minus 1 percent",
+      "valued_events": 393605,
+      "event_coverage_pct": 97.89659306276147,
+      "usd_equivalent_volume": 157561883.8447434,
+      "top5_volume_share_pct": 85.95293259278115,
+      "hhi_10000": 2107.8440136016993
+    }
+  ],
+  "note": "Peg scenarios are hypothetical stresses, not observed independent USD prices. Reference pools selected retrospectively by seven-day direct-quote volume for descriptive valuation, not used to predict trades."
+}

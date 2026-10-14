@@ -1,0 +1,20 @@
+{
+  "swaps": 402062,
+  "duplicate_ids": 0,
+  "duplicate_tx_log_keys": 0,
+  "unmatched_pools": 0,
+  "resolved_currencies": 155,
+  "currencies": 155,
+  "fully_normalized_swaps": 402062,
+  "nonstandard_signs": 352,
+  "hooked_swaps": 1163,
+  "pool_count": 267,
+  "start_utc": "2026-10-03T00:00:03+00:00",
+  "end_utc": "2026-10-09T23:58:03+00:00",
+  "zero_liquidity": 251,
+  "distinct_transactions": 301134,
+  "distinct_swap_callers": 142,
+  "bad_fee_range": 0,
+  "tick_price_inconsistent": 0,
+  "stable_quote_swaps": 260751
+}

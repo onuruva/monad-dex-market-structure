@@ -1,0 +1,12 @@
+{
+  "source_sha256": "b106894a2a45962865f3d2911b18edbb270f73757ff3ae34c4570f7ddd203c45",
+  "seed": 20261012,
+  "scope": "Seven-day Uniswap v4 application study; complete origin enrichment and separate provider venue aggregates",
+  "train_split": "2026-10-07T00:00:00+00:00",
+  "runtime_versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8"
+  }
+}

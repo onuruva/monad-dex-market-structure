@@ -1,0 +1,84 @@
+{
+  "distinct_originating_accounts": 7801,
+  "distinct_transactions": 301134,
+  "swap_events": 402062,
+  "origin_coverage_pct": 100.0,
+  "active_on_two_or_more_days": 1127,
+  "active_on_all_seven_days": 178,
+  "account_swap_concentration": {
+    "n": 7801,
+    "hhi": 0.030466130004453692,
+    "hhi_10000": 304.6613000445369,
+    "gini": 0.9668604791473139,
+    "top1_share": 0.07838343340081878,
+    "top5_share": 0.29817043142599897
+  },
+  "account_valued_volume_concentration": {
+    "n": 7617,
+    "hhi": 0.06381718699676983,
+    "hhi_10000": 638.1718699676983,
+    "gini": 0.9798037241719972,
+    "top1_share": 0.16183366510327285,
+    "top5_share": 0.471482122122596
+  },
+  "account_transaction_concentration": {
+    "n": 7801,
+    "hhi": 0.028972461620031947,
+    "hhi_10000": 289.7246162003195,
+    "gini": 0.960910377241744,
+    "top1_share": 0.08490904381438164,
+    "top5_share": 0.26986989180896215
+  },
+  "cohorts": [
+    {
+      "first_observed_day": "2026-10-03",
+      "accounts": 1454,
+      "days_remaining_in_sample": 6,
+      "observed_again_later": 492,
+      "observed_again_pct": 33.83768913342504
+    },
+    {
+      "first_observed_day": "2026-10-04",
+      "accounts": 1217,
+      "days_remaining_in_sample": 5,
+      "observed_again_later": 210,
+      "observed_again_pct": 17.255546425636812
+    },
+    {
+      "first_observed_day": "2026-10-05",
+      "accounts": 1212,
+      "days_remaining_in_sample": 4,
+      "observed_again_later": 173,
+      "observed_again_pct": 14.273927392739274
+    },
+    {
+      "first_observed_day": "2026-10-06",
+      "accounts": 824,
+      "days_remaining_in_sample": 3,
+      "observed_again_later": 106,
+      "observed_again_pct": 12.864077669902912
+    },
+    {
+      "first_observed_day": "2026-10-07",
+      "accounts": 1094,
+      "days_remaining_in_sample": 2,
+      "observed_again_later": 99,
+      "observed_again_pct": 9.049360146252285
+    },
+    {
+      "first_observed_day": "2026-10-08",
+      "accounts": 1320,
+      "days_remaining_in_sample": 1,
+      "observed_again_later": 47,
+      "observed_again_pct": 3.5606060606060606
+    },
+    {
+      "first_observed_day": "2026-10-09",
+      "accounts": 680,
+      "days_remaining_in_sample": 0,
+      "observed_again_later": 0,
+      "observed_again_pct": null
+    }
+  ],
+  "note": "Origin accounts are not verified people or economic owners. First observed means first within this dataset; repeat activity is sample-censored and not long-term retention."
+}

@@ -1,0 +1,36 @@
+{
+  "audit": [
+    {
+      "raw_events": "409146",
+      "unique_log_keys": "409146",
+      "unique_ids": "409146",
+      "min_block": "110031492",
+      "max_block": "112033259",
+      "min_ts": "1790985603",
+      "max_ts": "1791590283"
+    }
+  ],
+  "topics": [
+    {
+      "topic0": "0x40e9cecb9f5f1f1c5b9c97dec2917b7ee92e57ba5563708daca94dd84ad7112f",
+      "events": "402062"
+    },
+    {
+      "topic0": "0xf208f4912782fd25c7f114ca3723a2d5dd6f3bcc3ac8db5af63baa85f711d5ec",
+      "events": "6373"
+    },
+    {
+      "topic0": "0x1b3d7edb2e9c0b0e7c525b20aaaef0f5940d2ed71663c7d39266ecafac728859",
+      "events": "650"
+    },
+    {
+      "topic0": "0xdd466e674ea557f56295e2d0218a125ea4b4f0f6f3307b95f85e6110838d6438",
+      "events": "60"
+    },
+    {
+      "topic0": "0xceb576d9f15e4e200fdb5096d64d5dfd667e16def20c1eefd14256d8e3faa267",
+      "events": "1"
+    }
+  ],
+  "snapshot_utc": "2026-10-12T17:33:19.795660+00:00"
+}

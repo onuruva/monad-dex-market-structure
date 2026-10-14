@@ -1,0 +1,24 @@
+{
+  "reference_pools": {
+    "0x0000000000000000000000000000000000000000": "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954",
+    "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b": "0x7fc6232a9ec6cc4e9434640dcde5ee08ccae3b07de3247bf788fc9e2051b449e",
+    "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242": "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": "0xd77c0f253764f5d5fbc78e13888afcc35c839262e6b21cd02baa9d8551a9898a"
+  },
+  "max_reference_staleness_seconds": 60,
+  "valued_events": 393605,
+  "event_coverage": 0.9789659306276146,
+  "direct_quote_events": 260107,
+  "indirect_valued_events": 133498,
+  "total_usd_equivalent_notional": 157562166.88846606,
+  "pool_notional_concentration": {
+    "n": 189,
+    "hhi": 0.21078364443594666,
+    "hhi_10000": 2107.8364443594664,
+    "gini": 0.9743700692979063,
+    "top1_share": 0.3721497291452225,
+    "top5_share": 0.8595277818745342
+  },
+  "indirect_leg_discrepancy_above_5pct": 115,
+  "interpretation": "One pool leg or average of two available lagged marks, never sum of both legs. Quote anchors assumed at $1; indirect marks come from same-venue reference pools."
+}

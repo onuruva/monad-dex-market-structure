@@ -1,0 +1,20 @@
+{
+  "time_period": "2026-10-03 to 2026-10-09 UTC",
+  "train": "2026-10-03 through 2026-10-06 UTC",
+  "holdout": "2026-10-07 through 2026-10-09 UTC",
+  "pressure_group_rules": {
+    "Strong selling": "OI < -0.50",
+    "Balanced trading": "-0.50 <= OI <= 0.50",
+    "Strong buying": "OI > 0.50"
+  },
+  "liquidity_group_rules": "pool-specific training period one-third and two-thirds cutoffs in log local liquidity; test data never defines thresholds",
+  "holdout_rows_by_horizon": {
+    "1": 7634,
+    "5": 7193,
+    "15": 7171
+  },
+  "number_of_4h_blocks": 18,
+  "price_targets": "future observed pool-price log returns; not execution PnL",
+  "caution": "observational small 3-day holdout; multiple categories and thin cells; no causal inference",
+  "published_forecast_reproduction": "full, baseline, and flow-only metrics matched to included frozen results"
+}

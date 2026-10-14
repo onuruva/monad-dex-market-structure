@@ -1,0 +1,75 @@
+{
+  "source": "DefiLlama daily volume breakdown; provider-reported, not independently event-reconciled",
+  "start": "2026-10-03",
+  "end_exclusive": "2026-10-10",
+  "days": 7,
+  "all_provider_categories": {
+    "n": 30,
+    "hhi": 0.33786751960613126,
+    "hhi_10000": 3378.675196061313,
+    "gini": 0.8512333890396591,
+    "top1_share": 0.5549613665251518,
+    "top5_share": 0.8379219594320251
+  },
+  "dex_category_only": {
+    "n": 22,
+    "hhi": 0.43592858020845227,
+    "hhi_10000": 4359.285802084522,
+    "gini": 0.8300981948239656,
+    "top1_share": 0.6472215528656903,
+    "top5_share": 0.876358554599222
+  },
+  "all_provider_volume": 288093710.02000004,
+  "dex_category_volume": 247026506.29,
+  "uniswap_v4_share_dex_category": 0.6472215528656903,
+  "top_dex_category_venues": [
+    {
+      "protocol": "Uniswap V4",
+      "reported_usd_volume": 159880879.0
+    },
+    {
+      "protocol": "Kuru CLOB",
+      "reported_usd_volume": 15560159.0
+    },
+    {
+      "protocol": "Uniswap V3",
+      "reported_usd_volume": 14094380.0
+    },
+    {
+      "protocol": "Hanji Protocol",
+      "reported_usd_volume": 14042053.0
+    },
+    {
+      "protocol": "Curve DEX",
+      "reported_usd_volume": 12906321.0
+    },
+    {
+      "protocol": "Balancer V3",
+      "reported_usd_volume": 12552233.0
+    },
+    {
+      "protocol": "PancakeSwap AMM V3",
+      "reported_usd_volume": 6958181.0
+    },
+    {
+      "protocol": "LFJ POE",
+      "reported_usd_volume": 4587244.0
+    },
+    {
+      "protocol": "Mento V3",
+      "reported_usd_volume": 1604010.0
+    },
+    {
+      "protocol": "WOOFi Swap",
+      "reported_usd_volume": 1553987.0
+    },
+    {
+      "protocol": "Metric V1",
+      "reported_usd_volume": 1339945.0
+    },
+    {
+      "protocol": "Capricorn",
+      "reported_usd_volume": 851065.0
+    }
+  ]
+}

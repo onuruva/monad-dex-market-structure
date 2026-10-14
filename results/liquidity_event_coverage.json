@@ -1,0 +1,11 @@
+{
+  "modify_liquidity_events": 6373,
+  "matching_active_swap_pools": 6312,
+  "pools": 133,
+  "actions": {
+    "add": 2913,
+    "remove": 2551,
+    "zero_delta": 909
+  },
+  "note": "Changes only; opening positions and tick liquidity distribution have not been reconstructed. Zero-delta calls are not liquidity additions or removals."
+}

@@ -1,0 +1,88 @@
+{
+  "pool_swap_count_concentration": {
+    "n": 267,
+    "hhi": 0.1595800677171274,
+    "hhi_10000": 1595.800677171274,
+    "gini": 0.9665993526218785,
+    "top1_share": 0.3263551392571295,
+    "top5_share": 0.7232367147355383
+  },
+  "stable_quote_pool_notional_concentration": {
+    "n": 98,
+    "hhi": 0.3410761578474237,
+    "hhi_10000": 3410.7615784742366,
+    "gini": 0.9695038493329453,
+    "top1_share": 0.5073371853811112,
+    "top5_share": 0.96873156797229
+  },
+  "caller_swap_count_concentration": {
+    "n": 142,
+    "hhi": 0.09931637743772016,
+    "hhi_10000": 993.1637743772017,
+    "gini": 0.8813836153501937,
+    "top1_share": 0.25974600932194536,
+    "top5_share": 0.5552974416880978
+  },
+  "stable_quote_notional_total": 115577409.700472,
+  "swap_count_top5_pairs": [
+    {
+      "pool_id": "0x18a9fc874581f3ba12b7898f80a683c66fd5877fd74b26a85ba9a3a79c549954",
+      "pair": "MON/USDC",
+      "swaps": 131215,
+      "transactions": 125875,
+      "callers": 109,
+      "stable_quote_notional": 30157226.200021997,
+      "hook": false,
+      "fee_pips": "500"
+    },
+    {
+      "pool_id": "0x3783b51e33900eb366a9e8473c76cda441e7170d2e5d96927f30c16a7add93aa",
+      "pair": "MON/WETH",
+      "swaps": 61852,
+      "transactions": 61196,
+      "callers": 83,
+      "stable_quote_notional": null,
+      "hook": false,
+      "fee_pips": "500"
+    },
+    {
+      "pool_id": "0x1c93dd2f2f47439330150bf728c3beeaad71de45420a49183214898b044b65d1",
+      "pair": "MON/WBTC",
+      "swaps": 46820,
+      "transactions": 46347,
+      "callers": 81,
+      "stable_quote_notional": null,
+      "hook": false,
+      "fee_pips": "500"
+    },
+    {
+      "pool_id": "0xad408916c1c310da9c258d4c128a7bf50fd9edc42a218cc970da39cfc8a05d93",
+      "pair": "USDC/WETH",
+      "swaps": 31438,
+      "transactions": 30470,
+      "callers": 78,
+      "stable_quote_notional": 11478564.401714,
+      "hook": false,
+      "fee_pips": "500"
+    },
+    {
+      "pool_id": "0xd112fde908d7342135fc7297cc53d25bf7a11d6c6e21fe7ac3e73c40f70827e8",
+      "pair": "AUSD/USDC",
+      "swaps": 19461,
+      "transactions": 18930,
+      "callers": 68,
+      "stable_quote_notional": 312857.898664,
+      "hook": false,
+      "fee_pips": "9"
+    }
+  ],
+  "stable_quote_size_quantiles": {
+    "0.01": 0.0256545,
+    "0.25": 1.134676,
+    "0.5": 51.101335,
+    "0.75": 224.8055985,
+    "0.9": 556.383501,
+    "0.95": 790.7411855,
+    "0.99": 2190.2375110000003
+  }
+}
