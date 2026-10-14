@@ -52,7 +52,7 @@ Large derivative tables are regenerated and ignored by Git. Allow several GB
 of working memory and additional disk space for pandas outputs. Exact source
 integer strings are preserved.
 
-To regenerate the report and summary:
+To generate an automatically formatted report (this will not preserve the manually edited report layout):
 
 ```bash
 python -m pip install -r requirements_report.txt
@@ -71,7 +71,7 @@ The builder uses matplotlib's bundled DejaVu fonts and writes `deliverables/`.
 | enrich_metrics.py | Value executions, decode liquidity changes and group provider venue families |
 | final_metrics.py | Originating accounts, censored cohorts, sensitivities and final figures |
 | run_research.py | Complete credential-free workflow |
-| build_documents.py | Report and one-page summary generation |
+| build_documents.py | Automatically formatted document generation (does not preserve final manual edits) |
 | 01_token_metadata.sql / 02_module_a_swaps.sql / 03_pool_activity.sql | Versioned metadata and analytical views |
 
 Optional refresh scripts are separate from offline reproduction. `fetch_data.py`
@@ -95,14 +95,6 @@ appear in METHODOLOGY.md and the report.
 
 Cross-DEX leadership, lead-lag, arbitrage-convergence and Module B are excluded.
 No longer-window or other-DEX event results are implied.
-
-## GitHub publication
-
-This is a repository-ready distribution; no published URL is claimed. Upload
-the contents with subfolders preserved, or push using an authenticated Git
-client. Upload `data_parts/` rather than the assembled gzip copies, which
-`.gitignore` excludes. Every distributed file is below GitHub's 25 MiB browser
-upload limit. See [GitHub's upload documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
 
 ## Sources and verification
 
