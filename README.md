@@ -11,10 +11,9 @@ windows and additional venues are future extensions.
 
 ## Quick review
 
-1. [One-page executive summary](deliverables/Monad_Executive_Summary.pdf)
-2. [Final research report](deliverables/Monad_Research_Report.pdf)
-3. [Methodology](METHODOLOGY.md) and [data dictionary](DATA_DICTIONARY.md)
-4. [Figures and supporting tables](results/)
+1. [Final research report](deliverables/Monad_Research_Report.pdf)
+2. [Methodology](METHODOLOGY.md) and [data dictionary](DATA_DICTIONARY.md)
+3. [Figures and supporting tables](results/)
 
 Editable research report: [Word document](deliverables/Monad_Research_Report.docx). A [text version](REPORT.md) is provided for browsing on GitHub. The executive-summary text is in [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md).
 
